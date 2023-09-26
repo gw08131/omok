@@ -1,0 +1,15 @@
+﻿  omokDlg.cpp
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(4): warning C4603: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(4): message : Add macro to precompiled header instead of defining here
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(6): message : use of precompiled header
+C:\Users\염지윤\source\repos\omok\omok\resource.h(9,1): warning C4005: 'IDOK': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11117): message : see previous definition of 'IDOK'
+C:\Users\염지윤\source\repos\omok\omok\resource.h(10,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11118): message : see previous definition of 'IDCANCEL'
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(47,6): warning C4101: 'a5x': unreferenced local variable
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(44,6): warning C4101: 'a2x': unreferenced local variable
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(46,6): warning C4101: 'a4x': unreferenced local variable
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(45,6): warning C4101: 'a3x': unreferenced local variable
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(260,27): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+C:\Users\염지윤\source\repos\omok\omok\omokDlg.cpp(302,25): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  omok.vcxproj -> C:\Users\염지윤\source\repos\omok\Debug\omok.exe
